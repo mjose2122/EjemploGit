@@ -15,7 +15,7 @@ public class EjemploGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("version1.0");
+        System.out.println("version1.0 merged a version 1.1");
     }
     
 }
